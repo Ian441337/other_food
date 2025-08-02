@@ -1,3 +1,7 @@
 {
-  "values": {}
+  "values": {
+    "other_food:beef_jerky": {
+      "chance": 0.25
+    }
+  }
 }

@@ -13,6 +13,6 @@ public class ModItemProvidor extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-//        basicItem(ModItems.STEEL_INGOT.get());
+        basicItem(ModItems.BEEF_JERKY.get());
     }
 }
