@@ -27,10 +27,7 @@ public class DataGenerators {
 
         generator.addProvider(event.includeServer(), new LootTableProvider(packOutput, Collections.emptySet(),
                 List.of(new LootTableProvider.SubProviderEntry(ModBlockLootTableProvidor::new, LootContextParamSets.BLOCK)), lookupProvider));
-
-        BlockTagsProvider blockTagsProvider = new ModBlockTagProvidor(packOutput, lookupProvider, existingFileHelper);
-        generator.addProvider(event.includeServer(), blockTagsProvider);
-
+        
         generator.addProvider(event.includeClient(), new ModItemProvidor(packOutput, existingFileHelper));
         generator.addProvider(event.includeClient(), new ModBlockStateProvidor(packOutput, existingFileHelper));
 

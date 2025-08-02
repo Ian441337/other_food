@@ -16,7 +16,7 @@ public class ModDataMapProvider extends DataMapProvider {
 
     @Override
     protected void gather() {
-        this.builder(NeoForgeDataMaps.COMPOSTABLES)
+        this.builder(NeoForgeDataMaps.COMPOSTABLES);
 //                .add(ModItems.CANNED_MELON.getId(), new Compostable(0.25f), false)
     }
 }
