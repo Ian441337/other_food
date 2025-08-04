@@ -1,4 +1,4 @@
-package ovh.glitchlabs.other_food.datagen;
+package ovh.glitchlabs.more_other_food.datagen;
 
 import net.minecraft.core.Holder;
 import net.minecraft.core.HolderLookup;
@@ -14,7 +14,7 @@ import net.minecraft.world.level.storage.loot.entries.LootItem;
 import net.minecraft.world.level.storage.loot.functions.ApplyBonusCount;
 import net.minecraft.world.level.storage.loot.functions.SetItemCountFunction;
 import net.minecraft.world.level.storage.loot.providers.number.UniformGenerator;
-import ovh.glitchlabs.other_food.blocks.ModBlocks;
+import ovh.glitchlabs.more_other_food.blocks.ModBlocks;
 
 import java.util.Set;
 

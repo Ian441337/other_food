@@ -1,17 +1,13 @@
-package ovh.glitchlabs.other_food.blocks;
+package ovh.glitchlabs.more_other_food.blocks;
 
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.BlockItem;
-import net.minecraft.world.level.block.SoundType;
-import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.level.block.state.properties.NoteBlockInstrument;
-import net.minecraft.world.level.material.MapColor;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredRegister;
-import ovh.glitchlabs.other_food.Other_food;
-import ovh.glitchlabs.other_food.items.ModItems;
+import ovh.glitchlabs.more_other_food.Other_food;
+import ovh.glitchlabs.more_other_food.items.ModItems;
 
 import java.util.function.Supplier;
 

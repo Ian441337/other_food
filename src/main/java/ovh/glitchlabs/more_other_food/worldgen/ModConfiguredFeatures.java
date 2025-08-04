@@ -1,10 +1,5 @@
-package ovh.glitchlabs.other_food.worldgen;
+package ovh.glitchlabs.more_other_food.worldgen;
 
-import net.minecraft.tags.BlockTags;
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.levelgen.feature.configurations.OreConfiguration;
-import net.minecraft.world.level.levelgen.structure.templatesystem.RuleTest;
-import net.minecraft.world.level.levelgen.structure.templatesystem.TagMatchTest;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.data.worldgen.BootstrapContext;
 import net.minecraft.resources.ResourceKey;
@@ -12,9 +7,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;
 import net.minecraft.world.level.levelgen.feature.Feature;
 import net.minecraft.world.level.levelgen.feature.configurations.FeatureConfiguration;
-import ovh.glitchlabs.other_food.Other_food;
-
-import java.util.List;
+import ovh.glitchlabs.more_other_food.Other_food;
 
 public class ModConfiguredFeatures {
 

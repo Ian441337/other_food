@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "ovh.glitchlabs.other_food.mixin",
+  "package": "ovh.glitchlabs.more_other_food.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
   ],

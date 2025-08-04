@@ -1,4 +1,4 @@
-package ovh.glitchlabs.other_food.datagen;
+package ovh.glitchlabs.more_other_food.datagen;
 
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.RegistrySetBuilder;
@@ -6,10 +6,10 @@ import net.minecraft.core.registries.Registries;
 import net.minecraft.data.PackOutput;
 import net.neoforged.neoforge.common.data.DatapackBuiltinEntriesProvider;
 import net.neoforged.neoforge.registries.NeoForgeRegistries;
-import ovh.glitchlabs.other_food.Other_food;
-import ovh.glitchlabs.other_food.worldgen.ModBiomeModifiers;
-import ovh.glitchlabs.other_food.worldgen.ModConfiguredFeatures;
-import ovh.glitchlabs.other_food.worldgen.ModPlacedFeatures;
+import ovh.glitchlabs.more_other_food.Other_food;
+import ovh.glitchlabs.more_other_food.worldgen.ModBiomeModifiers;
+import ovh.glitchlabs.more_other_food.worldgen.ModConfiguredFeatures;
+import ovh.glitchlabs.more_other_food.worldgen.ModPlacedFeatures;
 
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;

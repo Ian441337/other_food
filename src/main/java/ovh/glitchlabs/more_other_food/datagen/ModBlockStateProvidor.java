@@ -1,10 +1,10 @@
-package ovh.glitchlabs.other_food.datagen;
+package ovh.glitchlabs.more_other_food.datagen;
 
 import net.neoforged.neoforge.registries.DeferredBlock;
 import net.minecraft.data.PackOutput;
 import net.neoforged.neoforge.client.model.generators.BlockStateProvider;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;
-import ovh.glitchlabs.other_food.Other_food;
+import ovh.glitchlabs.more_other_food.Other_food;
 
 public class ModBlockStateProvidor extends BlockStateProvider {
     public ModBlockStateProvidor(PackOutput output, ExistingFileHelper exFileHelper) {

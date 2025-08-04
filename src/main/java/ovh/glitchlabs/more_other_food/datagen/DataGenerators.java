@@ -1,4 +1,4 @@
-package ovh.glitchlabs.other_food.datagen;
+package ovh.glitchlabs.more_other_food.datagen;
 
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
@@ -6,11 +6,10 @@ import net.minecraft.data.PackOutput;
 import net.minecraft.data.loot.LootTableProvider;
 import net.minecraft.world.level.storage.loot.parameters.LootContextParamSets;
 import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.neoforge.common.data.BlockTagsProvider;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;
 import net.neoforged.neoforge.data.event.GatherDataEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
-import ovh.glitchlabs.other_food.Other_food;
+import ovh.glitchlabs.more_other_food.Other_food;
 
 import java.util.Collections;
 import java.util.List;

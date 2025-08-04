@@ -1,4 +1,4 @@
-package ovh.glitchlabs.other_food.worldgen;
+package ovh.glitchlabs.more_other_food.worldgen;
 
 
 import net.minecraft.world.level.levelgen.placement.*;

@@ -1,7 +1,5 @@
-package ovh.glitchlabs.other_food.worldgen;
+package ovh.glitchlabs.more_other_food.worldgen;
 
-import net.minecraft.world.level.levelgen.VerticalAnchor;
-import net.minecraft.world.level.levelgen.placement.HeightRangePlacement;
 import net.minecraft.core.Holder;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.data.worldgen.BootstrapContext;
@@ -10,7 +8,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;
 import net.minecraft.world.level.levelgen.placement.PlacedFeature;
 import net.minecraft.world.level.levelgen.placement.PlacementModifier;
-import ovh.glitchlabs.other_food.Other_food;
+import ovh.glitchlabs.more_other_food.Other_food;
 
 import java.util.List;
 

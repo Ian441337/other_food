@@ -1,11 +1,11 @@
-package ovh.glitchlabs.other_food.datagen;
+package ovh.glitchlabs.more_other_food.datagen;
 
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
 import net.neoforged.neoforge.common.data.DataMapProvider;
 import net.neoforged.neoforge.registries.datamaps.builtin.Compostable;
 import net.neoforged.neoforge.registries.datamaps.builtin.NeoForgeDataMaps;
-import ovh.glitchlabs.other_food.items.ModItems;
+import ovh.glitchlabs.more_other_food.items.ModItems;
 
 import java.util.concurrent.CompletableFuture;
 

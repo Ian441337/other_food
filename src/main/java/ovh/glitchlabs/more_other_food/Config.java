@@ -1,4 +1,4 @@
-package ovh.glitchlabs.other_food;
+package ovh.glitchlabs.more_other_food;
 
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;

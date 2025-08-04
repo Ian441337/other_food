@@ -1,3 +1,90 @@
 {
+ "item.other_food.fruit_jar": "Fruit jar",
+
  "item.other_food.beef_jerky": "Beef Jerky",
+ "item.other_food.toast": "Toast",
+ "item.other_food.apple_jam": "Apple Jam",
+
+ "_comment_warm_dishes": "Warme Gerichte",
+ "item.other_food.shepherds_pie": "Shepherd's Pie",
+ "item.other_food.fish_stew": "Fish Stew",
+ "item.other_food.mushroom_risotto": "Mushroom Risotto",
+ "item.other_food.baked_potato_with_cheese": "Baked Potato with Cheese",
+
+ "_comment_desserts": "Süßspeisen & Desserts",
+ "item.other_food.chocolate_chip_cookie": "Chocolate Chip Cookie",
+ "item.other_food.strawberry_tart": "Strawberry Tart",
+ "item.other_food.honey_cake": "Honey Cake",
+ "item.other_food.ice_cream_bowl": "Ice Cream Bowl",
+
+ "_comment_drinks": "Getränke",
+ "item.other_food.hot_chocolate": "Hot Chocolate",
+ "item.other_food.berry_smoothie": "Berry Smoothie",
+ "item.other_food.coffee": "Coffee",
+
+ "_comment_international": "Internationale Küche",
+ "item.other_food.sushi_roll": "Sushi Roll",
+ "item.other_food.taco": "Taco",
+ "item.other_food.pizza_slice": "Pizza Slice",
+ "item.other_food.ramen_bowl": "Ramen Bowl",
+
+ "_comment_special": "Spezielle Effekte",
+ "item.other_food.energy_bar": "Energy Bar",
+ "item.other_food.golden_donut": "Golden Donut",
+ "item.other_food.spicy_chili": "Spicy Chili",
+
+ "_comment_snacks": "Snacks & Fingerfood",
+ "item.other_food.pretzel": "Pretzel",
+ "item.other_food.cheese_crackers": "Cheese Crackers",
+ "item.other_food.popcorn": "Popcorn",
+ "item.other_food.nachos": "Nachos",
+
+ "_comment_breakfast": "Frühstück",
+ "item.other_food.pancakes": "Pancakes",
+ "item.other_food.waffles": "Waffles",
+ "item.other_food.cereal_bowl": "Cereal Bowl",
+ "item.other_food.bagel_with_cream_cheese": "Bagel with Cream Cheese",
+
+ "_comment_sandwiches": "Sandwiches & Wraps",
+ "item.other_food.club_sandwich": "Club Sandwich",
+ "item.other_food.burrito": "Burrito",
+ "item.other_food.wrap": "Wrap",
+ "item.other_food.grilled_cheese": "Grilled Cheese",
+
+ "_comment_seafood": "Meeresfrüchte",
+ "item.other_food.lobster_tail": "Lobster Tail",
+ "item.other_food.shrimp_cocktail": "Shrimp Cocktail",
+ "item.other_food.fish_and_chips": "Fish and Chips",
+
+ "_comment_exotic_fruits": "Exotische Früchte",
+ "item.other_food.mango": "Mango",
+ "item.other_food.pineapple_slice": "Pineapple Slice",
+ "item.other_food.dragon_fruit": "Dragon Fruit",
+
+ "_comment_bbq": "Gegrilltes & BBQ",
+ "item.other_food.bbq_ribs": "BBQ Ribs",
+ "item.other_food.grilled_salmon": "Grilled Salmon",
+ "item.other_food.corn_on_the_cob": "Corn on the Cob",
+
+ "_comment_healthy": "Gesunde Optionen",
+ "item.other_food.quinoa_salad": "Quinoa Salad",
+ "item.other_food.acai_bowl": "Acai Bowl",
+ "item.other_food.protein_shake": "Protein Shake",
+
+ "_comment_magical": "Magische Items",
+ "item.other_food.enchanted_apple_pie": "Enchanted Apple Pie",
+ "item.other_food.mystic_mushroom_soup": "Mystic Mushroom Soup",
+ "item.other_food.elixir_of_strength": "Elixir of Strength",
+
+ "_comment_party": "Partysnacks",
+ "item.other_food.birthday_cake_slice": "Birthday Cake Slice",
+ "item.other_food.party_mix": "Party Mix",
+ "item.other_food.champagne_flute": "Champagne Flute",
+
+ "_comment_comfort": "Comfort Food",
+ "item.other_food.mac_and_cheese": "Mac and Cheese",
+ "item.other_food.chicken_noodle_soup": "Chicken Noodle Soup",
+ "item.other_food.meatloaf": "Meatloaf",
+
+ "creativetab.other_food.tab": "Other Food"
 }
