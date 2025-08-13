@@ -192,7 +192,6 @@ public class ModItems {
     public static final DeferredItem<Item> MEATLOAF = ITEMS.register("meatloaf",
             () -> new Item(new Item.Properties().food(ModFoodProperties.MEATLOAF)));
 
-
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
