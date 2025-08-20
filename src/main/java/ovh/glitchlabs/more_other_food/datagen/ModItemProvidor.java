@@ -19,6 +19,12 @@ public class ModItemProvidor extends ItemModelProvider {
         basicItem(ModItems.TOAST.get());
         basicItem(ModItems.APPLE_JAM.get());
 
+        // Internationale Küche
+        basicItem(ModItems.SUSHI_ROLL.get());
+        basicItem(ModItems.TACO.get());
+        basicItem(ModItems.PIZZA_SLICE.get());
+        basicItem(ModItems.RAMEN_BOWL.get());
+
         // Warme Gerichte
         basicItem(ModItems.FISH_STEW.get());
         basicItem(ModItems.MUSHROOM_RISOTTO.get());
@@ -35,12 +41,6 @@ public class ModItemProvidor extends ItemModelProvider {
         basicItem(ModItems.BERRY_SMOOTHIE.get());
         basicItem(ModItems.COFFEE.get());
 
-        // Internationale Küche
-        basicItem(ModItems.SUSHI_ROLL.get());
-        basicItem(ModItems.TACO.get());
-        basicItem(ModItems.PIZZA_SLICE.get());
-        basicItem(ModItems.RAMEN_BOWL.get());
-
         // Spezielle Effekte
         basicItem(ModItems.ENERGY_BAR.get());
         basicItem(ModItems.GOLDEN_DONUT.get());
@@ -50,24 +50,16 @@ public class ModItemProvidor extends ItemModelProvider {
         basicItem(ModItems.PRETZEL.get());
         basicItem(ModItems.CHEESE_CRACKERS.get());
         basicItem(ModItems.POPCORN.get());
-        basicItem(ModItems.NACHOS.get());
 
         // Frühstück
         basicItem(ModItems.PANCAKES.get());
         basicItem(ModItems.WAFFLES.get());
-        basicItem(ModItems.CEREAL_BOWL.get());
-        basicItem(ModItems.BAGEL_WITH_CREAM_CHEESE.get());
 
         // Sandwiches & Wraps
         basicItem(ModItems.CLUB_SANDWICH.get());
         basicItem(ModItems.BURRITO.get());
         basicItem(ModItems.WRAP.get());
         basicItem(ModItems.GRILLED_CHEESE.get());
-
-        // Meeresfrüchte
-        basicItem(ModItems.LOBSTER_TAIL.get());
-        basicItem(ModItems.SHRIMP_COCKTAIL.get());
-        basicItem(ModItems.FISH_AND_CHIPS.get());
 
         // Exotische Früchte
         basicItem(ModItems.MANGO.get());

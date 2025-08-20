@@ -100,12 +100,6 @@ public class ModItems {
     public static final DeferredItem<Item> WAFFLES = ITEMS.register("waffles",
             () -> new Item(new Item.Properties().food(ModFoodProperties.WAFFLES)));
 
-    public static final DeferredItem<Item> CEREAL_BOWL = ITEMS.register("cereal_bowl",
-            () -> new Item(new Item.Properties().food(ModFoodProperties.CEREAL_BOWL)));
-
-    public static final DeferredItem<Item> BAGEL_WITH_CREAM_CHEESE = ITEMS.register("bagel_with_cream_cheese",
-            () -> new Item(new Item.Properties().food(ModFoodProperties.BAGEL_WITH_CREAM_CHEESE)));
-
     // Sandwiches & Wraps
     public static final DeferredItem<Item> CLUB_SANDWICH = ITEMS.register("club_sandwich",
             () -> new Item(new Item.Properties().food(ModFoodProperties.CLUB_SANDWICH)));
@@ -118,16 +112,6 @@ public class ModItems {
 
     public static final DeferredItem<Item> GRILLED_CHEESE = ITEMS.register("grilled_cheese",
             () -> new Item(new Item.Properties().food(ModFoodProperties.GRILLED_CHEESE)));
-
-    // Meeresfrüchte
-    public static final DeferredItem<Item> LOBSTER_TAIL = ITEMS.register("lobster_tail",
-            () -> new Item(new Item.Properties().food(ModFoodProperties.LOBSTER_TAIL)));
-
-    public static final DeferredItem<Item> SHRIMP_COCKTAIL = ITEMS.register("shrimp_cocktail",
-            () -> new Item(new Item.Properties().food(ModFoodProperties.SHRIMP_COCKTAIL)));
-
-    public static final DeferredItem<Item> FISH_AND_CHIPS = ITEMS.register("fish_and_chips",
-            () -> new Item(new Item.Properties().food(ModFoodProperties.FISH_AND_CHIPS)));
 
     // Exotische Früchte
     public static final DeferredItem<Item> MANGO = ITEMS.register("mango",

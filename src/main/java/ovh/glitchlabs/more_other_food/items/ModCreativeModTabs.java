@@ -33,12 +33,6 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.MUSHROOM_RISOTTO);
                         output.accept(ModItems.BAKED_POTATO_WITH_CHEESE);
 
-                        // Süßspeisen & Desserts
-                        output.accept(ModItems.CHOCOLATE_CHIP_COOKIE);
-                        output.accept(ModItems.STRAWBERRY_TART);
-                        output.accept(ModItems.HONEY_CAKE);
-                        output.accept(ModItems.ICE_CREAM_BOWL);
-
                         // Getränke
                         output.accept(ModItems.HOT_CHOCOLATE);
                         output.accept(ModItems.BERRY_SMOOTHIE);
@@ -59,24 +53,16 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.PRETZEL);
                         output.accept(ModItems.CHEESE_CRACKERS);
                         output.accept(ModItems.POPCORN);
-                        output.accept(ModItems.NACHOS);
 
                         // Frühstück
                         output.accept(ModItems.PANCAKES);
                         output.accept(ModItems.WAFFLES);
-                        output.accept(ModItems.CEREAL_BOWL);
-                        output.accept(ModItems.BAGEL_WITH_CREAM_CHEESE);
 
                         // Sandwiches & Wraps
                         output.accept(ModItems.CLUB_SANDWICH);
                         output.accept(ModItems.BURRITO);
                         output.accept(ModItems.WRAP);
                         output.accept(ModItems.GRILLED_CHEESE);
-
-                        // Meeresfrüchte
-                        output.accept(ModItems.LOBSTER_TAIL);
-                        output.accept(ModItems.SHRIMP_COCKTAIL);
-                        output.accept(ModItems.FISH_AND_CHIPS);
 
                         // Exotische Früchte
                         output.accept(ModItems.MANGO);
@@ -107,6 +93,13 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.MAC_AND_CHEESE);
                         output.accept(ModItems.CHICKEN_NOODLE_SOUP);
                         output.accept(ModItems.MEATLOAF);
+
+                        // Süßspeisen & Desserts
+                        output.accept(ModItems.CHOCOLATE_CHIP_COOKIE);
+                        output.accept(ModItems.STRAWBERRY_TART);
+                        output.accept(ModItems.HONEY_CAKE);
+                        output.accept(ModItems.ICE_CREAM_BOWL);
+
                     }).build());
 
 
