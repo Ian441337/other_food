@@ -93,9 +93,6 @@ public class ModItems {
     public static final DeferredItem<Item> POPCORN = ITEMS.register("popcorn",
             () -> new Item(new Item.Properties().food(ModFoodProperties.POPCORN)));
 
-    public static final DeferredItem<Item> NACHOS = ITEMS.register("nachos",
-            () -> new Item(new Item.Properties().food(ModFoodProperties.NACHOS)));
-
     // Frühstück
     public static final DeferredItem<Item> PANCAKES = ITEMS.register("pancakes",
             () -> new Item(new Item.Properties().food(ModFoodProperties.PANCAKES)));
